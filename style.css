@@ -30,6 +30,7 @@ color:white ;
 }
  
 .escola-imagem{
+padding-left: 13%;
 width: 25%;
 }
  
@@ -90,6 +91,7 @@ text-align: center;
 }
  
 .rodape-imagem{
-height: 60px;
+width: 15%;
+height: 70px;
 padding: 12px 0;
 } 
